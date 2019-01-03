@@ -43,11 +43,13 @@
         }]
       ],
       "plugins": [
+        "./build/babel-transform-scss-paths.js",
         "./build/babel-transform-stylus-paths.js"
       ]
     },
     "lib": {
       "plugins": [
+        "./build/babel-transform-scss-paths.js",
         "./build/babel-transform-stylus-paths.js"
       ]
     }
