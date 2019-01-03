@@ -22,7 +22,7 @@ export default {
   created () {
     if (!this.$route.params.component) return
 
-    import(`@/sink/${this.$route.params.component}`)
+    import(`@/pan/${this.$route.params.component}`)
       .then(res => {
         this.component = res.default
         this.cooking = this.component.name
