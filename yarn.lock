@@ -14503,10 +14503,10 @@ vuetify-loader@^0.2.0:
     gm "^1.23.1"
     loader-utils "^1.1.0"
 
-vuetify-loader@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/vuetify-loader/-/vuetify-loader-1.0.8.tgz#db99b7325d0336acae3970d411bf7237b27d52bf"
-  integrity sha512-JbZhJqKsZCyBVHh7v4J2ECJPplJlYFnLIgEL4WPvOaaW5QWZ1YAZT2iA8AA/TcBD65Cxg3Ky9lr0r/wJtOMo9w==
+vuetify-loader@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vuetify-loader/-/vuetify-loader-1.1.0.tgz#aebe1199fc869233b8cb54d099b3b5ab14315bf7"
+  integrity sha512-20WM+wbCo6Q7tbC59zzNmCMMkJNPiVeYjir7OmHB+1OdM+b7AkQJdQqVoZJ+qCwdtMHRLfK5Cp1TVY9DufrnVQ==
   dependencies:
     loader-utils "^1.1.0"
 
